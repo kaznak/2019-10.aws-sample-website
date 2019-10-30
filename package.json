@@ -5,5 +5,8 @@
   "repository": "git@github.com:kaznak/2019-10.aws-sample-website.git",
   "author": "Kazutaka <kaznak.at.work@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  }
 }
