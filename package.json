@@ -1,0 +1,9 @@
+{
+  "name": "aws-sample-website",
+  "version": "0.0.0",
+  "main": "server.js",
+  "repository": "git@github.com:kaznak/2019-10.aws-sample-website.git",
+  "author": "Kazutaka <kaznak.at.work@gmail.com>",
+  "license": "MIT",
+  "private": true
+}

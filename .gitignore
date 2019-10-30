@@ -15,3 +15,5 @@ nogit_*
 # ** Vi
 *.swp
 
+# * lang
+node_modules
